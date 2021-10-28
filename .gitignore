@@ -5,5 +5,5 @@
 */*.iml
 /.gradle/
 *.class
-
+*.classpath*
 */test-output*
