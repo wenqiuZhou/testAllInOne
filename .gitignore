@@ -1,7 +1,9 @@
 ### IDEA ###
 .idea/*
 *.iml
-*/target/*
+*/target*
 */*.iml
 /.gradle/
-*/test-output/*
+*.class
+
+*/test-output*
